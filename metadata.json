@@ -1,0 +1,8 @@
+{
+  "name": "SAIMAN Barber Shop & Grooming",
+  "description": "Premium modern barber shop and grooming studio with precision appointment booking, master barbers, and real-time scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
